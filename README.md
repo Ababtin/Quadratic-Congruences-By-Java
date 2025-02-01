@@ -42,5 +42,5 @@ This program is useful in various domains, including:
 
 - **Cryptography:** Used in RSA and Elliptic Curve Cryptography (ECC) to solve modular equations.
 - **Number Theory:** Helps in solving equations in finite fields.
-- **Computer Science Algorithms:*8 Applies modular arithmetic techniques in computational problems.
+- **Computer Science Algorithms:** 8 Applies modular arithmetic techniques in computational problems.
 - **Mathematical Research:** Supports research in prime numbers and quadratic congruences.
