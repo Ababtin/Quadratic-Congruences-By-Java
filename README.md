@@ -31,15 +31,15 @@ where:
    \]
 7. Outputs the solutions \( x_1, x_2 \) mod \( p \) if they exist, otherwise prints `"NO SOLUTION"`.
 
-##Dependencies
-- **JDK 8 or later (for Java execution)
-- **Java Scanner (for input handling)
-- **Mathematical knowledge of modular arithmetic (recommended)
+## Dependencies
+- **JDK 8 or later (for Java execution)**
+- **Java Scanner (for input handling)**
+- **Mathematical knowledge of modular arithmetic (recommended)**
 
-##Applications
+## Applications
 This program is useful in various domains, including:
 
-- **Cryptography: Used in RSA and Elliptic Curve Cryptography (ECC) to solve modular equations.
-- **Number Theory: Helps in solving equations in finite fields.
-- **Computer Science Algorithms: Applies modular arithmetic techniques in computational problems.
-- **Mathematical Research: Supports research in prime numbers and quadratic congruences.
+- **Cryptography:** Used in RSA and Elliptic Curve Cryptography (ECC) to solve modular equations.
+- **Number Theory:** Helps in solving equations in finite fields.
+- **Computer Science Algorithms:** Applies modular arithmetic techniques in computational problems.
+- **Mathematical Research:** Supports research in prime numbers and quadratic congruences.
